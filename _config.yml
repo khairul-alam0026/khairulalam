@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Khairul Alam"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Graduate Research Assistant @University of Saskatchewan"
+  location         : "Saskatoon, Canada"
+  employer         : "University of Saskatchewan"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kha060@usask.ca" 
 
   # Academic websites
   academia         : # URL
