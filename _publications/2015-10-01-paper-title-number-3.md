@@ -11,4 +11,4 @@ paperurl: 'https://link.springer.com/article/10.1007/s10664-025-10705-2'
 citation: 'Alam, K., Roy, B., Roy, C. K., & Mittal, K. (2025). &quot;An empirical investigation on the challenges in scientific workflow systems development.&quot; <i>Empirical Software Engineering 1</i>.30(5), 151.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The contents above will be part of a list of publications. If the user clicks the link for the publication, then the contents of the section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
