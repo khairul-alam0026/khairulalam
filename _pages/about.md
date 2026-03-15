@@ -6,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+**PhD Researcher | Software Engineering | Scientific Workflow Systems | AI for Scientific Computing**
+
+*University of Saskatchewan, Canada*
 
 I am a PhD researcher at the University of Saskatchewan, working at the intersection of software engineering, scientific workflow systems, empirical studies, and AI-assisted scientific computing. My research focuses on understanding how developers build, maintain, and collaborate on complex scientific software infrastructures, particularly within platforms such as GitHub and modern scientific workflow systems environments. My work integrates empirical software engineering methods, statistical analysis, data mining techniques, and AI-assisted development approaches to improve the reliability and usability of computational research workflow systems like Nextflow, Galaxy, and Snakemake.
 
