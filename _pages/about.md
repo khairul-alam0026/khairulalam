@@ -16,6 +16,8 @@ I am a PhD researcher at the University of Saskatchewan, working at the intersec
 
 Despite their importance, developing and maintaining workflow systems and constructing reliable scientific workflows remain challenging due to heterogeneous tools, complex dependencies, and rapidly evolving software ecosystems. My research is motivated by the need to **reduce the complexity of both workflow systems and workflow development, and to make advanced computational infrastructures more accessible, reliable, and easier to use for scientists and developers**.
 
+Another key motivation behind my work is the growing opportunity to leverage large language models and AI agents to support software development and scientific computing. I investigate how AI-driven systems can assist developers in tasks such as workflow generation, debugging, and reuse, ultimately enabling researchers to transform high-level analysis goals into executable workflows more efficiently and reliably.
+
 
 Getting started
 ======
