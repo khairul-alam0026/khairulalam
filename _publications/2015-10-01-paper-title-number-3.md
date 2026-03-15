@@ -3,7 +3,7 @@ title: "An Empirical Investigation on the Challenges in Scientific Workflow Syst
 collection: publications
 category: manuscripts
 permalink: https://link.springer.com/article/10.1007/s10664-025-10705-2
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'This paper presents an empirical study investigating the challenges faced by developers when building Scientific Workflow Systems (SWSs). By analyzing discussions from GitHub and Stack Overflow using topic modeling, the study identifies common development issues, such as workflow creation and scheduling, workflow execution, dependencies, and error and bug fixing, and provides insights that can guide future tools and research to improve the development and usability of workflow systems.'
 date: 2025-08-01
 venue: 'Empirical Software Engineering.'
 #slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
