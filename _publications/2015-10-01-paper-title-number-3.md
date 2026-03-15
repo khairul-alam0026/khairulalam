@@ -2,10 +2,10 @@
 title: "An Empirical Investigation on the Challenges in Scientific Workflow Systems Development"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: https://link.springer.com/article/10.1007/s10664-025-10705-2
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Empirical Software Engineering'
+date: 2025-08-01
+venue: 'Empirical Software Engineering.'
 #slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://link.springer.com/article/10.1007/s10664-025-10705-2'
 citation: 'Alam, K., Roy, B., Roy, C. K., & Mittal, K. (2025). &quot;An empirical investigation on the challenges in scientific workflow systems development.&quot; <i>Empirical Software Engineering 1</i>.30(5), 151.'
